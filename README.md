@@ -1,6 +1,12 @@
 ## 강의노트
 [![강의노트 바로가기](https://upload.wikimedia.org/wikipedia/commons/4/4a/Aviso_%22categor%C3%ADzame%22_%28espa%C3%B1ol%29.svg)](https://github.com/kyagrd/PL2018Fall/wiki)
 
+## 수업 내용 개요
+기본개념, 함수형 프로그래밍 기초 (Haskell), 정규식과 유한오토마타,
+람다계산법, normalization, evaluation, call-by-value, call-by-name, call-by-need
+장난감 함수형 언어 인터프리터, 타입 검사, polymorphism, overloading
+타입 유추, unification, logic programming
+
 ## 수업에 사용할 책
  * [새로 보는 프로그래밍 언어](http://www.acornpub.co.kr/book/programming-language)
  
