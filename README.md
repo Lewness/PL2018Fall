@@ -23,3 +23,11 @@
      이 강의의 주목적은 하스켈에 능숙하게 되는 것이 아니기 때문에 강의에 필요한 최소한만 설명하고 넘어가게 될 것이므로 나머지 의문나는 부분을 스스로 찾아보며 공부할 수 있는 참고서로 사용할 목적으로 선정한 부교재이다.
      학구적이면서도 간결한 영어 문장으로 쓰여져 있어서 읽어보면 영어공부 특히 기술적/학문적 글쓰기를 할 때 어떻게 문단을 전개해야 하는지도 공부가 되어서 꼭 원서도 구비해서 참고하며 공부하면 좋다.
      이 책의 예제중에 몇가지를 그대로 혹은 약간 변형해서 수업에서도 일부 활용할 예정이다.
+
+## 수업에 사용할 SW
+
+ * [IHaskell](https://github.com/gibiansky/IHaskell) - [Haskell](http://haskell.org) 프로그래밍 언어를 지원하나는 [Jupyter](http://jupyter.org) 커널
+   * Docker for Toolbox를 이용한 IHaskell 설치 안내 영상 https://youtu.be/rvaXWrN6tJY
+   * 최신 버전의 Mac OS X 및 Windows 10 Professional 에서 메모리 8GB이상을 갖춘 환경에서는
+     Docker for Toolbox 대신 더 최신 버전의 도커 소프트웨어인 Docker for Windows를 사용해도 된다.
+ *
