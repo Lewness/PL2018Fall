@@ -27,7 +27,8 @@
 ## 수업에 사용할 SW
 
  * [IHaskell](https://github.com/gibiansky/IHaskell) - [Haskell](http://haskell.org) 프로그래밍 언어를 지원하나는 [Jupyter](http://jupyter.org) 커널
-   - Docker for Toolbox를 이용한 IHaskell 설치 [안내 영상](https://youtu.be/rvaXWrN6tJY)
+   - Docker for Toolbox를 이용한 IHaskell 설치 방법 [안내 영상](https://youtu.be/rvaXWrN6tJY)
    - 최신 버전의 Mac OS X 및 Windows 10 Professional 에서 메모리 8GB이상을 갖춘 환경에서는
      Docker for Toolbox 대신 더 최신 버전의 도커 소프트웨어인 Docker for Windows를 사용해도 된다.
+   - Linux를 사용하는 경우라면 설치가 더 간단하다. 배포판 docker 패키지로 docker 소프트웨어 설치 후 명령어를 실행하면 된다. 
  * 후반부에 Logic Programming을 소개할 때 사용할 소프트웨어는 추후 공지할 예정
