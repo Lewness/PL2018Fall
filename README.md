@@ -7,6 +7,9 @@
 장난감 함수형 언어 인터프리터, 타입 검사, polymorphism, overloading
 타입 유추, 일치화(unification), 논리형 프로그래밍(logic programming)
 
+## 평가
+과제 25%, 중간 30%, 기말 45%
+
 ## 수업에 사용할 책
  * [새로 보는 프로그래밍 언어](http://www.acornpub.co.kr/book/programming-language)
  
