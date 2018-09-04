@@ -14,8 +14,9 @@
  * [새로 보는 프로그래밍 언어](http://www.acornpub.co.kr/book/programming-language)
  
      이 책은 Programming Language Pragmatics, 2nd edition을 우리말로 옮긴 번역서이다.
-     하지만 이후로 개정판이 한 번 더 나와 원서 최신판
-     [Programming Language Pragmatics, 3rd edition](https://www.elsevier.com/books/programming-language-pragmatics/scott/978-0-12-374514-9)의 내용도 필요에 따라서는 수업에 활용할 수 있다.
+     하지만 이후로 개정판이 두 번 더 나와 원서 3판
+     [Programming Language Pragmatics, 3rd edition](https://www.elsevier.com/books/programming-language-pragmatics/scott/978-0-12-374514-9)이나 최신판인 4판 [Programming Language Pragmatics,
+4th Edition](https://www.elsevier.com/books/programming-language-pragmatics/scott/978-0-12-410409-9) 내용도 필요에 따라서는 수업에 활용할 수 있다.
      수업은 이 책의 내용을 순서대로 처음부터 끝까지 따라가는 것이 아니다.
      이 책은 비교적 최신의 프로그래밍 언어 관련 지식을 폭넓지만 이론과도 연계하여 소개하고 있어 프로그래밍 언어들의 특징과 차이점 및 공통점을 파악하기 좋게 되어 있어 수업에서 다루지 않는 내용도 스스로 읽어볼 것을 권한다.
      수업의 주요 내용은 함수형 프로그래밍 언어(functional programming language)와 논리형 프로그래밍 언어(logic programming language)와 관련된 이론과 활용을 소개하는 데 맞추어져 있다.
