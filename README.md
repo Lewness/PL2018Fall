@@ -47,3 +47,4 @@
      Docker for Toolbox 대신 더 최신 버전의 도커 소프트웨어인 Docker for Mac이나 Docker for Windows를 사용해도 된다.
    - Linux를 사용하는 경우라면 설치가 더 간단하다. 배포판 docker 패키지로 docker 소프트웨어 설치 후 명령어를 실행하면 된다. 
  * 후반부에 Logic Programming을 소개할 때 사용할 소프트웨어는 추후 공지할 예정
+ * [잔디 업무용 메신저](https://haskell.jandi.com/)
