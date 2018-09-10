@@ -1,6 +1,10 @@
 ## 강의노트
 [![강의노트 바로가기](https://upload.wikimedia.org/wikipedia/commons/4/4a/Aviso_%22categor%C3%ADzame%22_%28espa%C3%B1ol%29.svg)](https://github.com/kyagrd/PL2018Fall/wiki)
 
+## 교수 연락처 및 공용 메신저
+* 안기영 kya@hnu.kr
+* [잔디 업무용 메신저](https://haskell.jandi.com/)
+
 ## 수업 내용 개요
 기본개념, 함수형 프로그래밍 기초 (Haskell), 정규식과 유한오토마타,
 람다계산법, normalization, evaluation, call-by-value, call-by-name, call-by-need
